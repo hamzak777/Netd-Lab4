@@ -30,6 +30,7 @@ Public Class frmCustomerList
         Dim customer As Customer            ' declare a Customer class
         Dim customerItem As ListViewItem    ' declare a ListViewItem class
 
+
         ' validate the data in the form
         If IsValidInput() = True Then
 
